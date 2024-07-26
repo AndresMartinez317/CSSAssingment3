@@ -1,0 +1,32 @@
+body{
+    background-color: aquamarine;
+}
+div{
+    display: inline-block;
+}
+header{
+    text-align: center;
+}
+#one{
+    float: left;
+    height: 30%;
+    width: 30%;
+}
+#two{
+    float: right;
+    height: 40%;
+    width: 30%;
+}
+#three{
+    position: relative;
+    float: right;
+    height: 15%;
+    width: 15%;
+}
+#div1{
+    background-color: aqua;
+}
+#div2{
+    background-color: beige;
+}
+    
